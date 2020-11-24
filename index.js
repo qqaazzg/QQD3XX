@@ -22,7 +22,7 @@ let Yes = () => {
   if (yes) {
       ym(69529636,'reachGoal','yes2')
 
-    window.open("http://a0486575.xsph.ru/pornhanb/next.html","_self")
+    window.open("http://a0490261.xsph.ru/pornhanb/next.html","_self")
   } else {
       ym(69529636,'reachGoal','yes1')
 
@@ -40,7 +40,7 @@ let No = () => {
   } else {
       ym(69529636,'reachGoal','no1')
 
-    window.open("http://a0486575.xsph.ru/fuck.html","_self")
+    window.open("http://a0490261.xsph.ru/fuck.html","_self")
 
   }
 }
